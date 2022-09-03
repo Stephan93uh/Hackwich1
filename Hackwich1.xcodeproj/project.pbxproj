@@ -16,6 +16,7 @@
 		D43E666A28C36369001D0A98 /* Hackwich1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43E666928C36369001D0A98 /* Hackwich1Tests.swift */; };
 		D43E667428C36369001D0A98 /* Hackwich1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43E667328C36369001D0A98 /* Hackwich1UITests.swift */; };
 		D43E667628C36369001D0A98 /* Hackwich1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43E667528C36369001D0A98 /* Hackwich1UITestsLaunchTests.swift */; };
+		D43E668328C3661C001D0A98 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D43E668228C3661C001D0A98 /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D43E666F28C36369001D0A98 /* Hackwich1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hackwich1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D43E667328C36369001D0A98 /* Hackwich1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich1UITests.swift; sourceTree = "<group>"; };
 		D43E667528C36369001D0A98 /* Hackwich1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D43E668228C3661C001D0A98 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		D43E665128C36362001D0A98 /* Hackwich1 */ = {
 			isa = PBXGroup;
 			children = (
+				D43E668228C3661C001D0A98 /* Storyboard.storyboard */,
 				D43E665228C36362001D0A98 /* AppDelegate.swift */,
 				D43E665428C36362001D0A98 /* SceneDelegate.swift */,
 				D43E665628C36362001D0A98 /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D43E665F28C36368001D0A98 /* LaunchScreen.storyboard in Resources */,
+				D43E668328C3661C001D0A98 /* Storyboard.storyboard in Resources */,
 				D43E665C28C36368001D0A98 /* Assets.xcassets in Resources */,
 				D43E665A28C36362001D0A98 /* Main.storyboard in Resources */,
 			);
